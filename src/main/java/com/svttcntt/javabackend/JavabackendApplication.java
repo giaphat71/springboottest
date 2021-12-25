@@ -16,7 +16,6 @@ public class JavabackendApplication {
     public static void main(String[] args) {
 
         var context = SpringApplication.run(JavabackendApplication.class, args);
-
     }
 
 }
